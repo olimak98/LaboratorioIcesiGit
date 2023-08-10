@@ -10,11 +10,13 @@ d.	Gitea
 a.	git init
 b.	git remote add 
 c.	git clone 
+
 4.	Branch
 a.	git branch
 b.	git branch -d
 c.	git checkout
 d.	git merge
+
 5.	Commit
 a.	git add
 b.	git reset
