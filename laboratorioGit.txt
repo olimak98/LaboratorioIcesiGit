@@ -26,7 +26,6 @@ c.	git commit -m
 d.	git push
 e.	git pull
 f.	git fetch
-6.	Auditoria
 a.	git diff
 b.	git status
 c.	git tag
