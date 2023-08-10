@@ -1,15 +1,18 @@
 1.	Configuración de Git
 a.	Descargar CLI https://git-scm.com/downloads /Users/camilo/Desktop/gitIcesi/LaboratorioIcesiGit/application.properties
 b.	Descargar GUI https://git-scm.com/downloads/guis
+
 2.	Sistemas de Control de versiones (repositorio)
 a.	Github
 b.	Gitlab
 c.	Bitbucket
 d.	Gitea
+
 3.	Configuración de repositorio
 a.	git init
 b.	git remote add 
 c.	git clone 
+
 4.	Branch
 a.	git branch
 b.	git branch -d
